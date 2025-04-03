@@ -1,7 +1,3 @@
-Here's the updated README with highlighted future improvements:  
-
----
-
 # Emotion Detection using Hugging Face Transformers  
 
 This project focuses on **emotion detection** using a dataset processed with **Hugging Face's Transformer** models. The goal was to classify emotions from textual data, but initial results yielded an accuracy of **32%**.  
